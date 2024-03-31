@@ -57,8 +57,13 @@ input {
 .calculator {
     padding: 0.25rem;
     display: inline-block;
-}
 
+}
+.ani:hover
+{
+    transform: scale(1.10);
+    cursor: pointer;
+}
 table {
     margin: auto;
 }
